@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.cba30053.chunk.css",
+    "main.js": "/todo-react/static/js/main.5324ed32.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.5324ed32.chunk.js.map",
+    "runtime-main.js": "/todo-react/static/js/runtime-main.a22a98c4.js",
+    "runtime-main.js.map": "/todo-react/static/js/runtime-main.a22a98c4.js.map",
+    "static/js/2.ca412e35.chunk.js": "/todo-react/static/js/2.ca412e35.chunk.js",
+    "static/js/2.ca412e35.chunk.js.map": "/todo-react/static/js/2.ca412e35.chunk.js.map",
+    "index.html": "/todo-react/index.html",
+    "precache-manifest.ab4a7b2efef7485a738f364c48213d4d.js": "/todo-react/precache-manifest.ab4a7b2efef7485a738f364c48213d4d.js",
+    "service-worker.js": "/todo-react/service-worker.js",
+    "static/css/main.cba30053.chunk.css.map": "/todo-react/static/css/main.cba30053.chunk.css.map",
+    "static/js/2.ca412e35.chunk.js.LICENSE.txt": "/todo-react/static/js/2.ca412e35.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todo-react/static/media/Moontells Demo.a5251408.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a22a98c4.js",
+    "static/js/2.ca412e35.chunk.js",
+    "static/css/main.cba30053.chunk.css",
+    "static/js/main.5324ed32.chunk.js"
+  ]
+}
